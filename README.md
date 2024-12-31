@@ -1,8 +1,3 @@
-Here are the exact commands to write your README.md file in the terminal:
-
-```bash
-# Make sure you're in your project root directory
-cat > README.md << 'EOL'
 # LLM Evaluation Platform
 
 A modern web application for comparing responses from different AI language models side by side. Built with FastAPI and React, this platform allows real-time comparison of Groq's Mixtral-8x7b and HuggingFace's GPT-2 models.
@@ -72,15 +67,6 @@ MIT
 EOL
 ```
 
-After entering this command, the README.md file will be created with the content. You can verify it by:
-```bash
-cat README.md
-```
 
-This creates a clean, professional README with:
-1. Project description
-2. Features with emojis
-3. Tech stack details
-4. Clear setup instructions
-5. License information
+
 
